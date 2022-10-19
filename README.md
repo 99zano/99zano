@@ -1,5 +1,5 @@
 - 🇮🇹 Hi, I’m @99zano
-- 💻 I’m interested in Hackintoshing, programming, sound synthesis and Operave Systems generally
+- 💻 I’m interested in Hackintoshing, programming, sound synthesis and Operative Systems generally
 - 📚 I’m currently studying Informatica Musicale at Università Degli Studi di Milano
 - ⚙️ I’m enjoying the journey at MIR Computers Lab in Milano
 - 📫 You can reach me at emanuelezanonimail@gmail.com
